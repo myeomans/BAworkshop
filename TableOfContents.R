@@ -13,6 +13,8 @@ library(textclean)
 library(tidyverse)
 library(ggrepel)
 library(glmnet)
+library(syuzhet)
+library(SnowballC)
 
 # a function we use to build a model later
 source("BA_dfm.R") 
